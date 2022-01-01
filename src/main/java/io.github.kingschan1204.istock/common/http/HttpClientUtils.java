@@ -33,6 +33,8 @@ import java.security.cert.X509Certificate;
 import java.util.*;
 
 /**
+ * httpClient 工具类
+ *
  * @author kings.chan
  * @create 2018-11-13 15:52
  **/

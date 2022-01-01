@@ -9,6 +9,8 @@ import java.security.cert.CertificateFactory;
 import java.security.cert.X509Certificate;
 
 /**
+ * http工具类
+ *
  * @author kings.chan
  * @create 2018-11-13 15:52
  **/

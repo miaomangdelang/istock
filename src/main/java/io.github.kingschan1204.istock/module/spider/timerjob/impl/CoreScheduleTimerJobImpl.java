@@ -8,6 +8,8 @@ import lombok.extern.slf4j.Slf4j;
 import java.util.concurrent.TimeUnit;
 
 /**
+ * 核心调度任务负责管理所有任务调度
+ *
  * @author chenguoxiang
  * @create 2019-04-01 16:21
  **/

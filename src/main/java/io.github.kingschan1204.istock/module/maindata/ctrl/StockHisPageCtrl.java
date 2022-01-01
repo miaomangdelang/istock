@@ -1,7 +1,11 @@
 package io.github.kingschan1204.istock.module.maindata.ctrl;
 
 import com.alibaba.fastjson.JSONArray;
-import io.github.kingschan1204.istock.module.maindata.po.*;
+import io.github.kingschan1204.istock.module.maindata.po.Stock;
+import io.github.kingschan1204.istock.module.maindata.po.StockDailyBasic;
+import io.github.kingschan1204.istock.module.maindata.po.StockDividend;
+import io.github.kingschan1204.istock.module.maindata.po.StockReport;
+import io.github.kingschan1204.istock.module.maindata.po.StockYearReport;
 import io.github.kingschan1204.istock.module.maindata.repository.StockRepository;
 import io.github.kingschan1204.istock.module.maindata.services.StockYearReportService;
 import io.github.kingschan1204.istock.module.maindata.services.StockService;
